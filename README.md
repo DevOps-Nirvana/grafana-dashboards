@@ -9,7 +9,7 @@ Author: Farley - farley _at_ neonsurge **dot** com
 
 If you are using [Nginx Ingress](https://github.com/kubernetes/ingress-nginx) (which you should be) and [Prometheus](https://prometheus.io/) (which you also should be) this dashboard is what you wish you had years ago.
 
-![Nginx Ingress Dashboard](./images/kubernetes-nginx-ingress-via-prometheus.png)
+![Nginx Ingress Dashboard](./images/kubernetes-nginx-ingress-via-prometheus-3.png)
 
 This was created after much frustration from lack-of-visibility with the currently available open source dashboards.  It's loosely based on a number of other dashboards including the [official Grafana Dashboards for Nginx Ingress](https://github.com/kubernetes/ingress-nginx/tree/master/deploy/grafana/dashboards).  This dashboard largely replaces the need for any/all other ingress dashboard.  This is a ~20th generation dashboard at this time, having been iterated and iterated upon with every usage of it.
 
